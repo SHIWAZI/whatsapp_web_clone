@@ -1,0 +1,47 @@
+.green-top{
+    background-color:#009688;
+    height: 15vh;
+}
+.grey-mid{
+    background-color:#D9DBD5;
+    height: 85vh;
+}
+.b-container{
+    position: relative;
+
+}
+.f-container{
+    position:absolute ;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+}
+.chat-top{
+    background-color:#EDEDED;
+    min-height: 30px;
+    
+}
+.f-container1{
+    position:absolute ;
+    top: 20px;
+    right: 0px;
+    left: 0px;
+}
+.profile-img{
+    height: 2em;
+    widows: 2em;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.table-row{
+    background-color:#ffff;
+    min-height: 500px;
+}
+.chat-box{
+    overflow-y:scroll;
+    height:500px;
+}
+.message-area{
+    background-color:#E5DDD5;
+    min-height:475px;
+}
